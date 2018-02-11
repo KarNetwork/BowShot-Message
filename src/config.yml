@@ -1,0 +1,9 @@
+#调整数据精度
+Accuracy: 1
+
+#杀死人时是否发出声音
+Sound: true
+#杀死人时发出什么声音(需要将Sound设为true才有作用)
+#默认为 ORB_PICKUP,如果报错的话请修改，如果你不知道有哪些声音的话，可以输入/sounds查看声音大全
+#在更高的版本(1.9+),这个声音被改成了 ENTITY_EXPERIENCE_ORB_PICKUP
+SoundName: ORB_PICKUP
